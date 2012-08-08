@@ -4,7 +4,7 @@ Color
 Critical learning
 -----------------
 
-* Read [The Elements of Color: A Treatise on the Color System of Johannes Itten Based on His Book the Art of Color](http://www.amazon.com/exec/obidos/ASIN/0471289299/)
+* Read [The Elements of Color: A Treatise on the Color System of Johannes Itten Based on His Book the Art of Color](http://www.amazon.com/exec/obidos/ASIN/0471289299/) ($)
 
 Validation
 ----------
